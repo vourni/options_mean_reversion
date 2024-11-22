@@ -1,0 +1,7 @@
+additional_underlyings,cfi,contract_type,correction,exercise_style,expiration_date,primary_exchange,shares_per_contract,strike_price,ticker,underlying_ticker
+,OPASPS,put,,american,2023-08-23,BATO,100,444,O:SPY230823P00444000,SPY
+,OPASPS,put,,american,2023-08-24,BATO,100,444,O:SPY230824P00444000,SPY
+,OPASPS,put,,american,2023-08-25,BATO,100,444,O:SPY230825P00444000,SPY
+,OPASPS,put,,american,2023-08-28,BATO,100,444,O:SPY230828P00444000,SPY
+,OPASPS,put,,american,2023-08-29,BATO,100,444,O:SPY230829P00444000,SPY
+,OPASPS,put,,american,2023-08-30,BATO,100,444,O:SPY230830P00444000,SPY

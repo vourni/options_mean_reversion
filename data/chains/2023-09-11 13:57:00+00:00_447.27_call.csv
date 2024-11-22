@@ -1,0 +1,8 @@
+additional_underlyings,cfi,contract_type,correction,exercise_style,expiration_date,primary_exchange,shares_per_contract,strike_price,ticker,underlying_ticker
+,OCASPS,call,,american,2023-09-18,BATO,100,448.0,O:SPY230918C00448000,SPY
+,OCASPS,call,,american,2023-09-19,BATO,100,448.0,O:SPY230919C00448000,SPY
+,OCASPS,call,,american,2023-09-20,BATO,100,448.0,O:SPY230920C00448000,SPY
+,OCASPS,call,,american,2023-09-21,BATO,100,448.0,O:SPY230921C00448000,SPY
+,OCASPS,call,,american,2023-09-22,BATO,100,447.5,O:SPY230922C00447500,SPY
+,OCASPS,call,,american,2023-09-22,BATO,100,448.0,O:SPY230922C00448000,SPY
+,OCASPS,call,,american,2023-09-25,BATO,100,448.0,O:SPY230925C00448000,SPY
